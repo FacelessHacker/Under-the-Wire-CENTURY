@@ -6,4 +6,4 @@ The host that you will be connecting to is century.underthewire.tech,
 
 ssh Century1@century.underthewire.tech
 
-[UI Image](https://github.com/FacelessHacker/Under-the-Wire-CENTURY/blob/main/1.png)
+![UI Image](https://github.com/FacelessHacker/Under-the-Wire-CENTURY/blob/main/1.png)
