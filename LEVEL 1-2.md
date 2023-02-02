@@ -1,2 +1,2 @@
-# Under-the-Wire-CENTURY
-Century is a game used to learn Powershell as a beginner.
+# The password for Century2 is the build version of the instance of PowerShell installed on this system.
+
